@@ -5,8 +5,12 @@ body{
     display:flex;
     justify-coment: center;
     align-items: center;
+    heinght: 700px;
+    margin: 0;
+}
 
-
-
-
+button{
+    background-color: rgb(189, 147, 93);
+    color:rgba(167, 95, 1, 0.849)
+    font-family: "Playwrite CU", cursive;
 }
