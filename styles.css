@@ -14,3 +14,11 @@ button{
     color:rgba(167, 95, 1, 0.849)
     font-family: "Playwrite CU", cursive;
 }
+
+.passo{
+    display:nome;
+}
+
+.passo.ativo{
+    display: block;
+}
